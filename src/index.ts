@@ -14,3 +14,4 @@ arr.push(fj);
 
 // Tuple
 
+let person:[number, string, boolean]=[2,"fdhfj", true];
