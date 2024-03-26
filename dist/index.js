@@ -27,3 +27,7 @@ var Direction1;
     Direction1[Direction1["Right"] = 8] = "Right";
 })(Direction1 || (Direction1 = {}));
 console.log(Direction1.Right);
+const user = {
+    name: 'hf',
+    id: 22,
+};
