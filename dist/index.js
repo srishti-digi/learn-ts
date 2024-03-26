@@ -39,3 +39,7 @@ function addNum(x, y) {
     return x + y;
 }
 console.log(addNum(1, 2));
+const user1 = {
+    name: 'hf',
+    id: 22,
+};
