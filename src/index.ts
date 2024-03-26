@@ -15,3 +15,15 @@ arr.push(fj);
 // Tuple
 
 let person:[number, string, boolean]=[2,"fdhfj", true];
+
+// Tuple array
+
+let employee:[number, string][]
+employee=[
+    [1,"fjfk"],
+    [2,"rm"],
+    [7, "rkgjkr"],
+
+
+]
+

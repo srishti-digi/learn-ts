@@ -7,3 +7,11 @@ ids.push('hello');
 let arr = [3, "fhjr", true];
 arr.push(fj);
 // Tuple
+let person = [2, "fdhfj", true];
+// Tuple array
+let employee;
+employee = [
+    [1, "fjfk"],
+    [2, "rm"],
+    [7, "rkgjkr"],
+];
