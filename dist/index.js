@@ -3,9 +3,9 @@ let id = 5;
 let company = "djjjf";
 let isPublished = true;
 let ids = [1, 2, 3, 4, 5];
-ids.push('hello');
+// ids.push('hello');
 let arr = [3, "fhjr", true];
-arr.push(fj);
+// arr.push(fj);
 // Tuple
 let person = [2, "fdhfj", true];
 // Tuple array
@@ -18,3 +18,12 @@ employee = [
 // Union
 let pid;
 pid = 6;
+//Enum
+var Direction1;
+(function (Direction1) {
+    Direction1[Direction1["Up"] = 0] = "Up";
+    Direction1[Direction1["Down"] = 1] = "Down";
+    Direction1[Direction1["Left"] = 7] = "Left";
+    Direction1[Direction1["Right"] = 8] = "Right";
+})(Direction1 || (Direction1 = {}));
+console.log(Direction1.Right);
