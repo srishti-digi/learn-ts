@@ -34,3 +34,8 @@ const user = {
 // Type assertion
 let cid;
 let customerId = cid;
+// function
+function addNum(x, y) {
+    return x + y;
+}
+console.log(addNum(1, 2));
