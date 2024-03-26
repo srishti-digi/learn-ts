@@ -27,3 +27,9 @@ employee=[
 
 ]
 
+
+// Union
+
+let pid:number | string
+
+pid=6;
